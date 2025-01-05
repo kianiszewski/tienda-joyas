@@ -1,0 +1,25 @@
+# Node.js
+tienda-joyas/node_modules/
+tienda-joyas/npm-debug.log*
+tienda-joyas/yarn-debug.log*
+tienda-joyas/yarn-error.log*
+
+# Logs
+tienda-joyas/logs/
+tienda-joyas/*.log
+tienda-joyas/logs/*.log
+
+# Entorno
+tienda-joyas/.env
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+
+# Otros
+tienda-joyas/logs/
